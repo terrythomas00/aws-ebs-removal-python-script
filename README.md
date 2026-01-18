@@ -1,4 +1,4 @@
-# aws-ebs-removel-python-script
+# aws-ebs-removal-python-script
 # Cleaning Up Unused AWS EBS Volumes
 
 During my time as a Junior DevOps Engineer, one of my responsibilities was helping reduce our AWS costs. To do that, I dug into the monthly billing reports to identify high-cost resources. One major area that stood out was unused EBS (Elastic Block Store) volumes.
